@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriapujol&label=Profile%20views&color=0e75b6&style=flat" alt="adriapujol" /> </p>
 
-- 👨‍💻 Take a look at my porfolio [https://adriapujol.github.io/portfolio/](https://adriapujol.github.io/portfolio/)
+- 👨‍💻 Take a look at my [porfolio](https://adriapujol.github.io/portfolio/)
 
-- 📫 How to reach me **adriapujolaparicio@gmail.com**
+- 📫 How to reach me: **adriapujolaparicio@gmail.com**
 
-- ⚡ Fun fact **Bad jokes are my passion**
+- ⚡ Fun fact: **Bad jokes are my passion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
