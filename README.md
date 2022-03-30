@@ -1,5 +1,5 @@
 <h1 align="center">Adria Pujol</h1>
-<h3 align="center">I am frontend developer with photo retouching skills. Sounds good? Take a look at my portfolio and let's get in touch. Looking for job opportunities.</h3>
+<h3 align="center">I am a frontend developer with photo retouching skills. Sounds good? Take a look at my portfolio and let's get in touch. Looking for job opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriapujol&label=Profile%20views&color=0e75b6&style=flat" alt="adriapujol" /> </p>
 
